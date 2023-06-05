@@ -1,0 +1,11 @@
+init a nodeJs app
+    npm init
+
+install packages
+    npm { i , install, add} { package } { -g -> global | -D -> devDependency}
+
+update
+    npm { update } { package -> optionaly}
+
+uninstall
+    npm { uninstall} { package }
