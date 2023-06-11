@@ -1,0 +1,6 @@
+
+2023-06-11	17:09:04	3eeb3196-fdf8-4370-afa5-78ba9bf27496	/data/data.txt	GET
+2023-06-11	17:09:19	ded28f64-c09f-4dd2-b802-f1ac13c038fb	/	GET
+2023-06-11	17:10:01	6084d878-131e-4b13-892f-28de074ccff2	/data/data.txt	GET
+2023-06-11	17:10:14	4e07cb11-071b-4ae7-81a0-97e657d32316	/	GET
+2023-06-11	17:10:14	2edaa0a0-aad9-4c81-9bc6-9349bbd4e9df	/css/style.css	GET
