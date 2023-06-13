@@ -1,2 +1,3 @@
 
 2023-06-13	11:17:42	c32bbe3d-ce8d-442d-89ba-77ed9028ab23	Error	Not allowed by CORS !!
+2023-06-13	17:12:31	499d30b9-3824-4542-b9ff-68d77eb88125	Error	ENOENT: no such file or directory, stat '/home/henriqu3/Documentos/programas/Javascript/Node/Examples/Routing/routes/views/index.html'

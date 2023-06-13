@@ -15,3 +15,10 @@
 2023-06-13	11:06:33	d9f19bc1-6116-49e2-a181-b23467c6431b	GET	undefined	/new-page.html
 2023-06-13	11:17:33	abba8946-e7e2-4cf0-b7af-fa4d1d4ec88c	GET	undefined	/new-page.html
 2023-06-13	11:17:42	6d1a7d69-e183-4f97-90e7-a29feff05400	GET	undefined	/new-page.html
+2023-06-13	16:50:32	d3bb3f68-8524-4dcd-b732-3527e113b97c	GET	undefined	/
+2023-06-13	17:01:08	e08dbae2-cd4c-456e-b610-75050be0771f	GET	undefined	/subdir
+2023-06-13	17:01:44	eefddabf-3518-4cae-ac88-e14fe7547bc0	GET	undefined	/subdir
+2023-06-13	17:12:31	3febf69d-3bed-41c8-9f91-420a3483e1d4	GET	undefined	/
+2023-06-13	17:12:57	a598049e-d81d-4bac-87cb-73c2d08833d5	GET	undefined	/
+2023-06-13	17:13:03	5fb8758e-cd89-49f2-8ad6-c64a81d47708	GET	undefined	/new-page.html
+2023-06-13	17:33:46	fe3cecf3-dfcd-4fbc-af5a-cd6c0011d4f4	GET	undefined	/employees
