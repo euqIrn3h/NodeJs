@@ -1,0 +1,2 @@
+
+2023-06-13	11:17:42	c32bbe3d-ce8d-442d-89ba-77ed9028ab23	Error	Not allowed by CORS !!
