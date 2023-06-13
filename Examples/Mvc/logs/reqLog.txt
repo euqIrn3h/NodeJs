@@ -1,0 +1,41 @@
+
+2023-06-11	17:09:04	3eeb3196-fdf8-4370-afa5-78ba9bf27496	/data/data.txt	GET
+2023-06-11	17:09:19	ded28f64-c09f-4dd2-b802-f1ac13c038fb	/	GET
+2023-06-11	17:10:01	6084d878-131e-4b13-892f-28de074ccff2	/data/data.txt	GET
+2023-06-11	17:10:14	4e07cb11-071b-4ae7-81a0-97e657d32316	/	GET
+2023-06-11	17:10:14	2edaa0a0-aad9-4c81-9bc6-9349bbd4e9df	/css/style.css	GET
+2023-06-12	16:36:44	c79ad154-00ea-4004-be8e-fdf4dd7d8db7	/	GET
+2023-06-12	16:36:44	4c36f396-1530-4110-8619-76d076956dda	/css/style.css	GET
+2023-06-12	16:36:44	de6b0469-193d-4565-9eb9-98285960398d	/favicon.ico	GET
+2023-06-13	09:28:33	433779e9-ea5f-4faa-aa8a-92e7c79045c4	GET	undefined	/new-page.html
+2023-06-13	09:28:35	dbdda1c7-6a9c-406e-bed4-a3ce538902fe	GET	undefined	/
+2023-06-13	09:31:59	46c204d4-61dd-4faf-9379-a425af11059e	GET	undefined	/new-page.html
+2023-06-13	10:52:27	33473cf8-63a8-41ba-a42a-e4d7a93b0c51	GET	undefined	/new-page.html
+2023-06-13	10:52:44	8268cabd-c9ea-40a3-ba90-5916d7cc199b	GET	undefined	/new-page.html
+2023-06-13	11:06:33	d9f19bc1-6116-49e2-a181-b23467c6431b	GET	undefined	/new-page.html
+2023-06-13	11:17:33	abba8946-e7e2-4cf0-b7af-fa4d1d4ec88c	GET	undefined	/new-page.html
+2023-06-13	11:17:42	6d1a7d69-e183-4f97-90e7-a29feff05400	GET	undefined	/new-page.html
+2023-06-13	16:50:32	d3bb3f68-8524-4dcd-b732-3527e113b97c	GET	undefined	/
+2023-06-13	17:01:08	e08dbae2-cd4c-456e-b610-75050be0771f	GET	undefined	/subdir
+2023-06-13	17:01:44	eefddabf-3518-4cae-ac88-e14fe7547bc0	GET	undefined	/subdir
+2023-06-13	17:12:31	3febf69d-3bed-41c8-9f91-420a3483e1d4	GET	undefined	/
+2023-06-13	17:12:57	a598049e-d81d-4bac-87cb-73c2d08833d5	GET	undefined	/
+2023-06-13	17:13:03	5fb8758e-cd89-49f2-8ad6-c64a81d47708	GET	undefined	/new-page.html
+2023-06-13	17:33:46	fe3cecf3-dfcd-4fbc-af5a-cd6c0011d4f4	GET	undefined	/employees
+2023-06-13	18:04:25	45b3503c-4093-4b3c-b083-bbe8801e7a29	GET	undefined	/employees
+2023-06-13	18:39:19	189a7c9f-f1ea-4ede-bd2c-aac5c4da413b	GET	undefined	/employee/2
+2023-06-13	18:39:30	63901abb-6e9e-4f61-b27f-258f8b4bb125	GET	undefined	/employees/2
+2023-06-13	18:40:55	a9e2cb6e-44f8-4851-9dd3-7fcc2d49db22	GET	undefined	/employees/2
+2023-06-13	18:40:59	a9ad2281-8610-494e-ac5a-074ef0d10fc8	GET	undefined	/employees/1
+2023-06-13	18:41:47	2d4c7c1b-447d-4bbe-8f76-45ff04377143	GET	undefined	/employees/1
+2023-06-13	18:41:49	79c14132-7f37-47b3-adf6-8ec91cdd4080	GET	undefined	/employees/1
+2023-06-13	18:44:46	d6be8ff6-9966-4cfa-aac7-5fbfb2526d13	GET	undefined	/employees/1
+2023-06-13	18:45:13	8d30d934-5ed6-4346-881b-f4fe6a8676cd	GET	undefined	/employees/1
+2023-06-13	18:45:17	53ade815-35c7-444d-9048-a2b34fb5e75a	GET	undefined	/employees/2
+2023-06-13	18:45:26	8211eb7c-1678-4ccc-97f1-8515639d8caa	GET	undefined	/employees/1
+2023-06-13	18:47:28	d2c597f7-a8c8-431b-870c-dd5e5769408a	GET	undefined	/employees
+2023-06-13	18:48:01	cae271c1-4886-45d4-bf0d-94e8a53f4529	POST	undefined	/employees
+2023-06-13	18:48:12	fb74d13c-5345-484f-9a47-1c5b0f05b51c	GET	undefined	/employees
+2023-06-13	18:48:58	3421a923-b067-4f04-b55f-057accf33930	PUT	undefined	/employees
+2023-06-13	18:49:33	3b8f7039-f885-4395-bde2-f522c7db112a	PUT	undefined	/employees
+2023-06-13	18:55:39	7b429702-a277-4e3c-ab15-93d40dddc864	PUT	undefined	/employees
