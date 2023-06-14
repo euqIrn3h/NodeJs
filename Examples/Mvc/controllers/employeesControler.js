@@ -6,8 +6,7 @@ const get = (req, res) => {
 };
 
 const getById = (req,res) => {
-    let employee = data.employees.find( (employee) =>  employee.id === req.params.id );
-
+    let employee = data.employees.find( (employee) =>  employee.id === Number(req.params.id) );
     if(!employee){
         res.status(400).json({ "message": `Employee Id ${req.body.id} not found !`});
     }
@@ -31,11 +30,8 @@ const update = (req,res) => {
         res.status(400).json({ "message": "First nameare required !!"});
     }
 
-    let employee = data.employees.forEach( (element) => {
-        if(element.id === req.body.id){
-            return element;
-        }
-    });
+    let employee = data.employees.find( (employee) =>  employee.id === Number(req.body.id) );
+
     if(!employee){
         res.status(400).json({ "message": `Employee Id ${req.body.id} not found !`});
     }
@@ -51,12 +47,12 @@ const update = (req,res) => {
 };
 
 const remove = (req,res) => {
-    let employee = data.employees.find( (employee) => { employee.id === Number(req.body.id) });
+    let employee = data.employees.find( (employee) => employee.id === Number(req.body.id) );
     if(!employee){
         res.status(400).json({ "message": `Employee Id ${req.body.id} not found !`});
     }
 
-    data.employees.slice(data.employees.indexOf(employee));
+    data.employees.splice(data.employees.indexOf(employee),1);
     res.status(200).json({ "message": `Employee Id ${req.body.id} deleted !`});
 };
 
